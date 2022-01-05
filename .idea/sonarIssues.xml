@@ -8,12 +8,17 @@
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/Semana de Retos/RetoPomPageFactory/src/test/java/co/com/sofka/setup/WebUI.java">
+        <entry key="$PROJECT_DIR$/../RetoPomPageFactory/src/test/java/co/com/sofka/setup/WebUI.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
           <value>
             <set />
           </value>
@@ -109,6 +114,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../patronScreenplayBase/src/test/java/co/com/sofka/stepdefinitions/services/soap/calculadora/add/AddStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/test/java/co/com/sofka/runners/services/rest/cucumber/PostPutTestCucumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/test/java/co/com/sofka/stepdefinitions/services/rest/PostStepdefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/test/java/co/com/sofka/stepdefinitions/services/rest/PutStepdefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/proyectobase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ejemplo_cucumber/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ejemplo_cucumber/gradle/wrapper/gradle-wrapper.properties">
           <value>
             <set />
           </value>
