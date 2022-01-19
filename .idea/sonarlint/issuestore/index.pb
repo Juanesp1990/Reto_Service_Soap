@@ -23,3 +23,11 @@ k
 ;src/main/java/co/com/sofka/questions/ReturnStringValue.java,a\3\a3466ee9072bdb1041dd382e82da5de6f99b4b62
 s
 Csrc/main/java/co/com/sofka/utils/service/soap/capital/Response.java,e\2\e21c07dc66ec29f10e62d1d37afd5cae16f1e070
+p
+@src/main/java/co/com/sofka/utils/service/soap/capital/Patch.java,1\d\1d9d8d9bcf108793f8cc9bb386c7989bd1732be7
+c
+3src/main/java/co/com/sofka/utils/FileUtilities.java,b\c\bc169d0474e5d85aab96d16d12d4328c691e6984
+ƒ
+Ssrc/test/java/co/com/sofka/stepdefinitions/services/soap/CapitalStepDefinition.java,8\3\83a2b3de108dfde4ec0e737e0e6d781631098813
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e

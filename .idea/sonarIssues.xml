@@ -123,6 +123,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/main/java/co/com/sofka/tasks/DoPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/main/java/co/com/sofka/tasks/DoPut.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/base web/base web/RetoSerenityBddRest/src/test/java/co/com/sofka/runners/services/rest/cucumber/PostPutTestCucumber.java">
           <value>
             <set />

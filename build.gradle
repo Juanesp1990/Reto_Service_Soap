@@ -7,6 +7,16 @@ apply plugin: 'idea'
 apply plugin: 'net.serenity-bdd.aggregator'
 apply plugin: 'org.sonarqube'
 
+plugins {
+  id "org.sonarqube" version "3.3"
+}
+
+sonarqube {
+  properties {
+    property "sonar.projectKey", "pruebados"
+  }
+}
+
 repositories {
     mavenCentral()
 }
